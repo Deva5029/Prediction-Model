@@ -1,10 +1,4 @@
-#################################################################
-#     --RAJESH KODAGANTI                                        #
-#     --CSUN ID : 203136602                                     #
-#     --"DATA MINING FINAL PROJECT CODE"                        #
-#     --PROJECT NAME : PRE-OWNED CARS PRICING PREDICTION        #
-#       USING "RANDOM FOREST REGRESSION"                        #
-#################################################################     
+ 
 
 #installing packages
 install.packages("randomForest")
